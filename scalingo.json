@@ -1,0 +1,21 @@
+{
+  "name": "scc",
+  "description": "scc",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/alphaxcv/scc",
+  "website": "https://scalingo.com",
+  "env": {
+    "N_S": {
+      "description": "nz server",
+      "value": "x.x.x"
+    },    
+    "N_K": {
+      "description": "nz key",
+      "value": "xx"
+    },    
+    "C_T": {
+      "description": "argo token",
+      "value": "xx"
+    }
+  }
+}
