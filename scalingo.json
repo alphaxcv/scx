@@ -1,19 +1,19 @@
 {
-  "name": "scc",
-  "description": "scc",
+  "name": "scx",
+  "description": "scx",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/alphaxcv/scc",
+  "repository": "https://github.com/alphaxcv/scx",
   "website": "https://scalingo.com",
   "env": {
-    "N_S": {
+    "NZ_SERVER": {
       "description": "nz server",
       "value": "x.x.x"
     },    
-    "N_K": {
+    "NZ_KEY": {
       "description": "nz key",
       "value": "xx"
     },    
-    "C_T": {
+    "AGO_AUTH": {
       "description": "argo token",
       "value": "xx"
     }
