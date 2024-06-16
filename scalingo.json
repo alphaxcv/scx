@@ -5,15 +5,15 @@
   "repository": "https://github.com/alphaxcv/scx",
   "website": "https://scalingo.com",
   "env": {
-    "NZ_SERVER": {
+    "N_S": {
       "description": "nz server",
       "value": "x.x.x"
     },    
-    "NZ_KEY": {
+    "N_K": {
       "description": "nz key",
       "value": "xx"
     },    
-    "AGO_AUTH": {
+    "C_T": {
       "description": "argo token",
       "value": "xx"
     }
