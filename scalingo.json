@@ -17,5 +17,8 @@
       "description": "argo token",
       "value": "xx"
     }
-  }
+  },  
+  "addons": [
+    {"plan": "tcp-gateway:tcplb"}
+  ]
 }
