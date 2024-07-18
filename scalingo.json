@@ -1,8 +1,8 @@
 {
-  "name": "scx",
-  "description": "scx",
+  "name": "slx",
+  "description": "slx",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/alphaxcv/scx",
+  "repository": "https://github.com/alphaxcv/slx",
   "website": "https://scalingo.com",
   "env": {
     "N_Z": {
