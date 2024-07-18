@@ -1,0 +1,21 @@
+{
+  "name": "slx",
+  "description": "slx",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/alphaxcv/slx",
+  "website": "https://scalingo.com",
+  "env": {
+    "NZ_SERVER": {
+      "description": "11",
+      "value": "x.x.x"
+    },    
+    "NZ_KEY": {
+      "description": "22",
+      "value": "xx"
+    },    
+    "AGO_AUTH": {
+      "description": "33",
+      "value": "xx"
+    }
+  }
+}
