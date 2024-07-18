@@ -6,16 +6,16 @@
   "website": "https://scalingo.com",
   "env": {
     "N_Z": {
-      "description": "nz server",
-      "value": "x.x.x"
+      "description": "1",
+      "value": "11"
     },    
     "N_K": {
-      "description": "nz key",
-      "value": "xx"
+      "description": "2",
+      "value": "22"
     },    
     "C_T": {
-      "description": "cf token",
-      "value": "xx"
+      "description": "3",
+      "value": "33"
     }
   }
 }
