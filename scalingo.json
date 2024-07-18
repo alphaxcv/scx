@@ -5,15 +5,15 @@
   "repository": "https://github.com/alphaxcv/slx",
   "website": "https://scalingo.com",
   "env": {
-    "NZ_SERVER": {
+    "N_S": {
       "description": "11",
       "value": "x.x.x"
     },    
-    "NZ_KEY": {
+    "N_K": {
       "description": "22",
       "value": "xx"
     },    
-    "AGO_AUTH": {
+    "C_T": {
       "description": "33",
       "value": "xx"
     }
