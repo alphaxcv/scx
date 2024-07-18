@@ -1,0 +1,21 @@
+{
+  "name": "scx",
+  "description": "scx",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/alphaxcv/scx",
+  "website": "https://scalingo.com",
+  "env": {
+    "N_Z": {
+      "description": "nz server",
+      "value": "x.x.x"
+    },    
+    "N_K": {
+      "description": "nz key",
+      "value": "xx"
+    },    
+    "C_T": {
+      "description": "cf token",
+      "value": "xx"
+    }
+  }
+}
