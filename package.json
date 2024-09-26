@@ -2,9 +2,9 @@
   "name": "my-app",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "sxs.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node sxs.js"
   },
   "keywords": [],
   "author": "",
