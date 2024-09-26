@@ -2,7 +2,7 @@
   "name": "scc",
   "description": "scc",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/alphaxcv/scc",
+  "repository": "https://github.com/alphaxcv/scx",
   "website": "https://scalingo.com",
   "env": {
     "N_S": {
