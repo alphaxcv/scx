@@ -1,0 +1,21 @@
+{
+  "name": "scc",
+  "description": "scc",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/alphaxcv/scc",
+  "website": "https://scalingo.com",
+  "env": {
+    "N_S": {
+      "description": "ns",
+      "value": "x.x.x"
+    },    
+    "N_K": {
+      "description": "nk",
+      "value": "xx"
+    },
+    "C_T": {
+      "description": "ct",
+      "value": "x.x.x"
+    }
+  }
+}
