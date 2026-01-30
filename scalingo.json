@@ -5,12 +5,16 @@
   "repository": "https://github.com/alphaxcv/scx",
   "website": "https://scalingo.com",
   "env": {
-    "N_S": {
-      "description": "ns",
+    "K_S": {
+      "description": "ks",
       "value": "x.x.x"
     },    
-    "N_K": {
-      "description": "nk",
+    "K_K": {
+      "description": "kk",
+      "value": "xx"
+    },
+    "C_D": {
+      "description": "cd",
       "value": "xx"
     },
     "C_T": {
